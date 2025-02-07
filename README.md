@@ -1,0 +1,1 @@
+# Esercizio_pausa_didattica_py
